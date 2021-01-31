@@ -11,8 +11,7 @@
     </div>
     <!--属性编辑区域-->
     <div class="el-attr-edit-wrapper">
-			<editor-drawer ref="editorDrawer"></editor-drawer>
-      
+		<editor-drawer ref="editorDrawer"></editor-drawer>
     </div>
   </div>
 </template>
